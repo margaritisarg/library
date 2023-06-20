@@ -7,8 +7,11 @@
 Please make sure that the following are installed:
 
 .Net 6 SDK
+
 Angular
+
 Node.js
+
 
 
 ### Introduction
