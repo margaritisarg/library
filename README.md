@@ -7,7 +7,7 @@
 Please make sure that the following are installed:
 
 .Net 6 SDK
-Node v16.18.0 (min version)
+
 
 ### Introduction
 Thank you for completing our recruitment homework. We have drafted a template solution for you to use as a starting point.
