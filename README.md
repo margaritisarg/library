@@ -6,7 +6,7 @@
 ### Dependencies
 Please make sure that the following are installed:
 
-.Net 6 SDK
+.Net 6/7 SDK
 
 Angular
 
