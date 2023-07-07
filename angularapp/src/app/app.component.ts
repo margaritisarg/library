@@ -8,5 +8,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'libraryapp';
-}
 
+  constructor(private http: HttpClient) { }
+
+  getData() {
+    //return this.http.get('https://www.googleapis.com/books/v1/volumes?q=trees');
+    return this.http.get('https://localhost:7299/book');
+  }
+}

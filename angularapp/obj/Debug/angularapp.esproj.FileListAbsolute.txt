@@ -1,2 +1,4 @@
 C:\Users\KamranA\OneDrive - The Royal Society\Kamran\JuniorDeveloperRole2023\TechnicalTest\RS.Library\angularapp\obj\Debug\angularapp.esproj.SuggestedBindingRedirects.cache
 C:\Users\KamranA\OneDrive - The Royal Society\Kamran\JuniorDeveloperRole2023\TechnicalTest\RS.Library\angularapp\obj\Debug\angularapp.esproj.CoreCompileInputs.cache
+C:\Users\nywow\Source\Repos\library-management\angularapp\obj\Debug\angularapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\nywow\Source\Repos\library-management\angularapp\obj\Debug\angularapp.esproj.CoreCompileInputs.cache
